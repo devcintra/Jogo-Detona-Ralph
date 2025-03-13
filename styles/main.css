@@ -56,7 +56,7 @@ body{
     height: 200px;
     width: 200px;
     /* border: 1px solid #000000; */
-    background: url("/images/janela-sem-ralph.png");
+    background: url(/images/janela-sem-ralph.png);
     background-size: cover;
     /* background-color: #1aeaa5; */
 }
@@ -67,6 +67,6 @@ body{
 }
 
 .enemy{
-    background-image: url(/images/ralph.png);
+    background-image: url(/images/janela-ralph.png);
     background-size: cover;
 }
