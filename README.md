@@ -53,7 +53,7 @@ cd jogo-do-ralph
 
 ## 📜 Licença  
 
-Este projeto está sob a licença [Nome da Licença].  
+Este projeto está sob a licença [DIO].  
 
 ---
 
