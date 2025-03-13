@@ -40,7 +40,7 @@ JOGO DO RALPH
 ## 📷 Demonstração  
 
 ### 🕹 Gameplay  
-![Gameplay](https://github.com/devcintra/Jogo-Detona-Ralph/blob/main/images/screenshot.png.png)  
+![Gameplay](https://github.com/devcintra/Jogo-Detona-Ralph/blob/main/screenshot.png.png)
  
 
 ## 📂 Como Executar  
